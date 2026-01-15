@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "230454851456",
+    "project_id": "contactlist-b1d2a",
+    "storage_bucket": "contactlist-b1d2a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:230454851456:android:993888ca00325190f0f365",
+        "android_client_info": {
+          "package_name": "com.example.mobil_programlama_odevi"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfj_lipJGPveV3OU6pban_ZtuMcgWfzd4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
