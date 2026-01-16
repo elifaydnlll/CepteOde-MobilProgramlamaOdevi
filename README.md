@@ -1,15 +1,15 @@
-# CepteÖde - Abonelik Takip Uygulaması
+ CepteÖde - Abonelik Takip Uygulaması
 
 CepteÖde, aylık aboneliklerinizi, faturalarınızı ve düzenli harcamalarınızı tek bir yerden kolayca takip etmenizi sağlayan modern bir mobil uygulamadır.
 
-## 📱 Proje Tanıtım Videosu
+ Proje Tanıtım Videosu
 
-> **Not:** Projenin çalışır halini görmek için aşağıdaki videoyu izleyebilirsiniz.
+ **Not:** Projenin çalışır halini görmek için aşağıdaki videoyu izleyebilirsiniz.
 
 <!-- Buraya video linkini ekleyin. Örnek: [![Video Başlığı](https://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=VIDEO_ID) -->
 [Proje Tanıtım Videosu - İzlemek için Tıklayın](Assets/Mobilproje.mp4)
 
-## ✨ Özellikler
+ Özellikler
 
 - **Kullanıcı İşlemleri:**
   - Güvenli Giriş ve Kayıt Ol (Firebase Auth)
@@ -32,7 +32,7 @@ CepteÖde, aylık aboneliklerinizi, faturalarınızı ve düzenli harcamaların�
   - Kullanıcı dostu arayüz
   - Çoklu dil desteği (Türkçe/İngilizce)
 
-## 🛠 Kullanılan Teknolojiler
+ Kullanılan Teknolojiler
 
 Bu proje aşağıdaki teknolojiler kullanılarak geliştirilmiştir:
 
@@ -46,7 +46,7 @@ Bu proje aşağıdaki teknolojiler kullanılarak geliştirilmiştir:
   - `google_fonts`: Modern tipografi için
   - `intl`: Tarih ve para birimi formatlama için
 
-## 🚀 Kurulum ve Çalıştırma
+Kurulum ve Çalıştırma
 
 Projeyi yerel makinenizde çalıştırmak için aşağıdaki adımları izleyin:
 
@@ -71,7 +71,7 @@ Projeyi yerel makinenizde çalıştırmak için aşağıdaki adımları izleyin:
    flutter run
    ```
 
-## 📸 Ekran Görüntüleri
+ Ekran Görüntüleri
 
 <!-- Ekran görüntülerini buraya ekleyebilirsiniz -->
 | Giriş Ekranı | Ana Sayfa | Raporlar |
