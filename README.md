@@ -12,7 +12,7 @@ CepteÖde, aylık aboneliklerinizi, faturalarınızı ve düzenli harcamaların�
  Özellikler
 
 - **Kullanıcı İşlemleri:**
-  - Güvenli Giriş ve Kayıt Ol (Firebase Auth)
+  - Güvenli Giriş ve Kayıt Ol (SqlLite)
   - Şifremi Unuttum özelliği
   - Beni Hatırla seçeneği
 
@@ -38,9 +38,10 @@ Bu proje aşağıdaki teknolojiler kullanılarak geliştirilmiştir:
 
 - **Framework:** [Flutter](https://flutter.dev/)
 - **Dil:** [Dart](https://dart.dev/)
-- **Backend & Database:** [Firebase](https://firebase.google.com/)
+-**Backend & Database:** SQLite (Yerel Veritabanı)
+-Uygulamada kullanıcıya ait verilerin kalıcı olarak saklanması ve yönetilmesi için SQLite veritabanı kullanılmıştır.
   - Firebase Authentication (Kimlik Doğrulama)
-  - Cloud Firestore (Veritabanı)
+  - SQLite (Yerel Veritabanı)
 - **Diğer Paketler:**
   - `fl_chart`: Grafik ve raporlamalar için
   - `google_fonts`: Modern tipografi için
