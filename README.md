@@ -7,7 +7,7 @@ CepteÖde, aylık aboneliklerinizi, faturalarınızı ve düzenli harcamaların�
 > **Not:** Projenin çalışır halini görmek için aşağıdaki videoyu izleyebilirsiniz.
 
 <!-- Buraya video linkini ekleyin. Örnek: [![Video Başlığı](https://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=VIDEO_ID) -->
-[Proje Tanıtım Videosu - İzlemek için Tıklayın](assets/Mobilproje.mp4)
+[Proje Tanıtım Videosu - İzlemek için Tıklayın](Assets/Mobilproje.mp4)
 
 ## ✨ Özellikler
 
