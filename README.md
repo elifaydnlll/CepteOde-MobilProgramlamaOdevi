@@ -46,30 +46,6 @@ Bu proje aşağıdaki teknolojiler kullanılarak geliştirilmiştir:
   - `google_fonts`: Modern tipografi için
   - `intl`: Tarih ve para birimi formatlama için
 
-Kurulum ve Çalıştırma
-
-Projeyi yerel makinenizde çalıştırmak için aşağıdaki adımları izleyin:
-
-1. **Projeyi Klonlayın:**
-   ```bash
-   git clone https://github.com/kullaniciadi/cepte-ode.git
-   cd cepte-ode
-   ```
-
-2. **Paketleri Yükleyin:**
-   ```bash
-   flutter pub get
-   ```
-
-3. **Firebase Kurulumu:**
-   - Firebase konsolunda yeni bir proje oluşturun.
-   - `lib/firebase_options.dart` dosyasını kendi proje bilgilerinizle güncelleyin.
-   > **Dikkat:** Güvenlik nedeniyle API anahtarları bu repoda paylaşılmamıştır. Uygulamanın çalışması için kendi Firebase yapılandırmanızı eklemeniz gerekmektedir.
-
-4. **Uygulamayı Çalıştırın:**
-   ```bash
-   flutter run
-   ```
 
  Ekran Görüntüleri
 
